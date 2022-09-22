@@ -1,0 +1,30 @@
+# Pineapple Steak Taco
+
+- [ ] Prepare pineapple
+    -  [] Skin pineapple
+    -  [] Slice pineapple
+    -  [] Dice pineapple
+- [ ] Make Teriyaki
+    - __Ingredients:__
+    - 2/3 cup mirin (Japanese sweet rice wine)
+    - 1 cup soy sauce
+    - 4 1/2 teaspoons rice vinegar
+    - 1 teaspoon sesame oil
+    - 7 cloves garlic, minced
+    - __Directions:__
+    - mix all ingredients
+    - heat in a saucepan to a simmer, boil off alcohol
+- [ ] Make Chopped Steak
+    - __Ingredients:__
+    - 1lb rib eye steak, cubed into ~1" cubes
+    - Salsa verde, your choice, about 2-3 Tbs
+    - Pinch or two of mexican oregano
+    - A few healthy sprinkles of chili powder
+    - __Directions:__
+    - cube up your steak 
+    - mix everything together, cover and let sit for a half hour or so.
+    - When everything else is ready to go, pan-fry (or, skewer and grill if you're feeling ambitious), until cooked to your chosen meat level.
+- [ ] Combine in taco shell
+- [ ] ???
+- [ ] Dance (optional)
+- [ ] Enjoy
